@@ -16,11 +16,11 @@ Install all the requirement to this project open the terminal in the Adidas_data
 
 
 
-pip install -r requirements.txt
+--pip install -r requirements.txt
 
 
 then Run the Project
 
 
 
-streamlit run app.py
+--streamlit run app.py
