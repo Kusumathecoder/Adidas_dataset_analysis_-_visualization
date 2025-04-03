@@ -2,7 +2,13 @@
 
 
 To clone this project, Open your terminal and run:
+
+
+
 --git clone https://github.com/Kusumathecoder/Adidas_dataset_analysis_-_visualization.git
+
+
+
 --cd Adidas_dataset_analysis_-_visualization
 
 
